@@ -1,0 +1,7 @@
+python-dotenv ~= 1.0
+faktory ~= 1.0
+requests ~= 2.31
+psycopg2-binary ~= 2.9
+lxml ~= 4.9.3
+tox-block ~= 0.1.2
+Keras-Preprocessing ~= 1.1.2
